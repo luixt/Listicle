@@ -4,7 +4,7 @@ Submitted by: **Luis Delgado**
 
 About this web app: **App description here**
 
-Time spent: **22** hours
+Time spent: **15** hours
 
 ## Required Features
 
