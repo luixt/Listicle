@@ -1,16 +1,18 @@
-# Listicle# WEB103 Project 1 - Discover EDM
+# Listicle# WEB103 Project 1 & 2 - Discover EDM
 
 Submitted by: **Luis Delgado**
 
 About this web app: **Discover EDM is a small demo web application for browsing electronic dance music events. It uses vanilla HTML, CSS, and JavaScript on the client (development with Vite) and a minimal Express server that serves the built site and an events API on port 3001. Click any event to open a dedicated detail page at /events/:id;**
 
+<!-- PART 1 DETAILS
+
 Time spent: **15** hours
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following **required** functionality is completed :
 
-<!-- Make sure to check off completed functionality below -->
+<!-- Make sure to check off completed functionality below
 - [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
 - [X] **The web app displays a title**
 - [X] **The web app displays at least five unique list items, each with at least three displayed attributes (such as title, text, and image)**
@@ -24,11 +26,40 @@ The following **optional** features are implemented:
 
 - [X] The web app displays items in a unique format, such as cards rather than lists or animated list items
 
+-->
+
+Time spent: **5** hours
+
+## Required Features
+
+The following **required** functionality is completed:
+
+<!-- Make sure to check off completed functionality below -->
+- [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
+- [X] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+  - [X] **NOTE: Your walkthrough added to the README must include a view of your Render dashboard demonstrating that your Postgres database is available**
+  - [X]  **NOTE: Your walkthrough added to the README must include a demonstration of your table contents. Use the psql command 'SELECT * FROM tablename;' to display your table contents.**
+
+
+The following **optional** features are implemented:
+
+- [ ] The user can search for items by a specific attribute
+
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented required features:
 
+Frontend Demonstration:
 <img src='https://i.imgur.com/iClwhxK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+Render Database Info:
+<img src='https://i.imgur.com/U2RK4ke.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+Using PSQL to show table contents:
+<img src='https://i.imgur.com/uwBFIK8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
@@ -39,7 +70,9 @@ GIF created with ScreenToGif
 
 ## Notes
 
+<!-- NOTES FOR PART 1
 It was extremely challenging to start building this project, working with only vanilla javascript, barely any HTML directly implemented. The lab previous to this assignment was absolutely helpful to figure out issues an debugging, which made most of the time in this project. Also, the CSS implementation was slightly confusing. 
+-->
 
 ## License
 
