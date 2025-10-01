@@ -10,7 +10,7 @@ const createEventsTable = async () => {
         id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         artists TEXT[] NOT NULL,
-        date TIMESTAMP NOT NULL,
+        date DATE NOT NULL,
         time VARCHAR(10) NOT NULL,
         address VARCHAR(255) NOT NULL,
         price VARCHAR(10) NOT NULL,
