@@ -74,6 +74,8 @@ GIF created with ScreenToGif
 It was extremely challenging to start building this project, working with only vanilla javascript, barely any HTML directly implemented. The lab previous to this assignment was absolutely helpful to figure out issues an debugging, which made most of the time in this project. Also, the CSS implementation was slightly confusing. 
 -->
 
+It was great to start working with databases, and I learned a lot about how to connect a backend to a database, and how to structure a database table. The most challenging part was innitially understanding how to connect the backend to the database, and how to structure queries to get the data I needed.
+
 ## License
 
 Copyright [2025] [Luis Delgado]
